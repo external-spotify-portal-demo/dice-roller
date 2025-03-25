@@ -5,6 +5,8 @@ metadata:
   description: It rolls dice
   tags:
     - go
+    - k8s
+    - kubernetes
   annotations:
     "backstage.io/kubernetes-id": dice-roller
     "backstage.io/kubernetes-namespace": default
